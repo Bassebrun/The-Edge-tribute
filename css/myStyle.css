@@ -1,0 +1,20 @@
+body{
+  margin-top:40px;  
+}  
+img{
+ padding:10px;
+ border-radius:3%; 
+} 
+
+li{
+  font-size:14px;
+}
+#edge{
+  font-size:15px;
+  padding:5px;
+}
+
+#edgee{
+  font-size:15px;
+  padding:5px;
+}
